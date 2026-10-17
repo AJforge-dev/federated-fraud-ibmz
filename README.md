@@ -108,7 +108,7 @@ The 227,845 training rows are distributed unevenly across 4 simulated banks with
 ### 1. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/federated-fraud-ibmz.git
+git clone https://github.com/AJforge-dev/federated-fraud-ibmz.git
 cd federated-fraud-ibmz
 
 # Create and activate virtual environment
